@@ -1,0 +1,3 @@
+cd /home/pi//Desktop/testmnist/ncappzoo/ncappzoo-ncsdk2/apps/image-classifier/classification_sample
+
+python classification_sample.py -m 1miohands-v2.xml -i img_test/i1_L2.jpg
